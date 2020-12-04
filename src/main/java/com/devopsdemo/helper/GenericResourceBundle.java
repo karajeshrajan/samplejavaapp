@@ -1,5 +1,5 @@
 package com.devopsdemo.helper;
-//Java Comment
+//Java Comments
 import java.util.Enumeration;
 import java.util.ResourceBundle;
 
